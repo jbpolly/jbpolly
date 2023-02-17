@@ -1,6 +1,8 @@
 
 ## What does this do?
 
+Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+
 - Created grid game component 
 - Fixed issue with width measurement in the small and medium theme containers
 - Added the same padding top and bottom to containers so the casino lobby will have a consistent spacing between containers according to figma
