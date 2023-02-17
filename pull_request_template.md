@@ -27,6 +27,7 @@
 - [x] Can the app launch when installing on top of other version?
 - [x] Can the app reach the modified functionality without crashes?
 - [x] Does the PR have a ticket to track it? 
+- [x] Does the PR increment version if necessary? 
 
 ## Screenshot/Video of app working with the Changes
 
